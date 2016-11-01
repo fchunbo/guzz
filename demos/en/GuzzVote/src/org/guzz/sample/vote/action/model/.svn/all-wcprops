@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/445/demos/en/GuzzVote/src/org/guzz/sample/vote/action/model
+END
+BigVoteModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/445/demos/en/GuzzVote/src/org/guzz/sample/vote/action/model/BigVoteModel.java
+END
+AntiCheatPolicyModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/445/demos/en/GuzzVote/src/org/guzz/sample/vote/action/model/AntiCheatPolicyModel.java
+END
+VoteTerritoryModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/445/demos/en/GuzzVote/src/org/guzz/sample/vote/action/model/VoteTerritoryModel.java
+END
+VoteExtraPropertyModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/445/demos/en/GuzzVote/src/org/guzz/sample/vote/action/model/VoteExtraPropertyModel.java
+END
+ChannelModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/445/demos/en/GuzzVote/src/org/guzz/sample/vote/action/model/ChannelModel.java
+END
+VoteItemGroupModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/445/demos/en/GuzzVote/src/org/guzz/sample/vote/action/model/VoteItemGroupModel.java
+END
+VoterInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/445/demos/en/GuzzVote/src/org/guzz/sample/vote/action/model/VoterInfo.java
+END
+VoteItemModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/445/demos/en/GuzzVote/src/org/guzz/sample/vote/action/model/VoteItemModel.java
+END
+BigVoteTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/445/demos/en/GuzzVote/src/org/guzz/sample/vote/action/model/BigVoteTree.java
+END

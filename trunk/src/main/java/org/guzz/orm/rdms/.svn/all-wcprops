@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/508/trunk/src/main/java/org/guzz/orm/rdms
+END
+SimpleTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/508/trunk/src/main/java/org/guzz/orm/rdms/SimpleTable.java
+END
+TableColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/471/trunk/src/main/java/org/guzz/orm/rdms/TableColumn.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/508/trunk/src/main/java/org/guzz/orm/rdms/Table.java
+END

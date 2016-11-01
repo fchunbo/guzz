@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/520/trunk/src/main/java/org/guzz/service/core/impl
+END
+FileDynamicSQLServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/511/trunk/src/main/java/org/guzz/service/core/impl/FileDynamicSQLServiceImpl.java
+END
+JDKExecutorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/465/trunk/src/main/java/org/guzz/service/core/impl/JDKExecutorService.java
+END
+DebugServiceProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/511/trunk/src/main/java/org/guzz/service/core/impl/DebugServiceProxy.java
+END
+AbstractDynamicSQLService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/511/trunk/src/main/java/org/guzz/service/core/impl/AbstractDynamicSQLService.java
+END
+SuperSlowUpdateServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/service/core/impl/SuperSlowUpdateServiceImpl.java
+END
+SlowUpdateServiceProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/511/trunk/src/main/java/org/guzz/service/core/impl/SlowUpdateServiceProxy.java
+END
+IncUpdateBusiness.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/520/trunk/src/main/java/org/guzz/service/core/impl/IncUpdateBusiness.hbm.xml
+END
+JDK5ExecutorServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/465/trunk/src/main/java/org/guzz/service/core/impl/JDK5ExecutorServiceImpl.java
+END
+TemplatedSQLServiceProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/511/trunk/src/main/java/org/guzz/service/core/impl/TemplatedSQLServiceProxy.java
+END
+DynamicSQLServiceProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/511/trunk/src/main/java/org/guzz/service/core/impl/DynamicSQLServiceProxy.java
+END
+RPCServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/service/core/impl/RPCServiceImpl.java
+END
+IncUpdateBusiness.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/service/core/impl/IncUpdateBusiness.java
+END
+DebugServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/503/trunk/src/main/java/org/guzz/service/core/impl/DebugServiceImpl.java
+END
+SlowUpdateServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/service/core/impl/SlowUpdateServiceImpl.java
+END
+MultiMachinesDatabaseServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/service/core/impl/MultiMachinesDatabaseServiceImpl.java
+END
+SingleMachineDatabaseServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/service/core/impl/SingleMachineDatabaseServiceImpl.java
+END
+VelocityTemplatedSQLService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/515/trunk/src/main/java/org/guzz/service/core/impl/VelocityTemplatedSQLService.java
+END

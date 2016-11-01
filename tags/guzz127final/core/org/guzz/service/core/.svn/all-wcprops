@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/service/core
+END
+DatabaseService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/service/core/DatabaseService.java
+END
+DebugService.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/service/core/DebugService.java
+END
+SlowUpdateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/service/core/SlowUpdateService.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/520/trunk/src/test/java/org/guzz/test
+END
+GuzzTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/520/trunk/src/test/java/org/guzz/test/GuzzTestCase.java
+END
+ArticleCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/457/trunk/src/test/java/org/guzz/test/ArticleCount.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/471/trunk/src/test/java/org/guzz/test/User.java
+END
+UserModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/457/trunk/src/test/java/org/guzz/test/UserModel.java
+END
+DBBasedTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/457/trunk/src/test/java/org/guzz/test/DBBasedTestCase.java
+END
+Comment.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/457/trunk/src/test/java/org/guzz/test/Comment.java
+END
+CommentShadowView.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/457/trunk/src/test/java/org/guzz/test/CommentShadowView.java
+END
+Article.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/457/trunk/src/test/java/org/guzz/test/Article.java
+END
+UserInfoH2.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/457/trunk/src/test/java/org/guzz/test/UserInfoH2.java
+END
+TestGhostLoad.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/457/trunk/src/test/java/org/guzz/test/TestGhostLoad.java
+END
+CommentVirtualDBView.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/457/trunk/src/test/java/org/guzz/test/CommentVirtualDBView.java
+END
+UserInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/457/trunk/src/test/java/org/guzz/test/UserInfo.java
+END
+Book.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/457/trunk/src/test/java/org/guzz/test/Book.java
+END

@@ -1,0 +1,62 @@
+#labels Featured
+
+|| [http://code.google.com/p/guzz/wiki/AboutGuzz?wl=en English] || [http://code.google.com/p/guzz/wiki/AboutGuzz?wl=zh-Hans 简体中文] ||
+
+== 概览 ==
+
+ Guzz是一套数据层框架，适合基于多台关系数据库的 访问量较高或者数据量较大 的真实系统（不是只为做demo）。
+ 
+*对于关系数据库方案，guzz提供有6项功能：*
+
+ * 1.	你的系统使用太多的表，或者这些表占用了1台机器太多的资源；你可以用dbgroup将不同的表分到多台数据库中（垂直分库）。具体参看第3节: [TutorialGuzzXml]
+
+ * 2.	某些表太大；你可以使用ShadowTable将它分切成许多张小表（水平分表）。具体参看第16节： [TutorialShadowTable]
+
+ * 3.	某些业务对象比较特殊，如购物网站，每个商品除了公共属性，还要拥有一些自己的特殊属性；你可以使用CustomTable将每个商品存储到一张单独的小表，然后给每张小表设置私有字段（水平分表 + 自定义属性）。具体参看第17节： [TutorialCustomTable]
+
+ * 4.	虽然按照第2,3项对大表进行了分切，但分出的小表太多，或者这些小表都在一台机器上还是占用了太多资源；你可以用 VirtualDB 将小表分布到不同的数据库组中（垂直分库 + 水平分表）。具体参看第18节: [TutorialVirtualDB]
+
+ * 5.	某些字段比较大或者比较特殊，不适合存储到数据库中，如需要存到文件系统中, 或memcached中, 或其他什么地方；使用 CustomColumnLoader 实现自定义属性加载。具体参看第12节: [TutorialLazyLoad]
+
+ * 6.	系统实在太忙，某些表1台机器无论如何也跑不下来。这个最简单，你可以随时增加更多机器，做为“读/从数据库”，用guzz编写的程序默认就实现了读写分离。
+
+ Guzz可以和hibernate,ibatis一起运行，也可以单独运行。对于已有系统，如果发现数据库成为瓶颈，可以引入guzz，用guzz对数据库瓶颈部分进行升级即可，其他功能不需要改动。
+ 
+ Guzz也设计了一些简化编程和维护的功能，如对“编程效率”和“资源对开发者可控性”的平衡提供了2套API供开发者根据自己情况选择，如Service扩展，如中心配置服务器扩展等。
+ 
+ 最后，Guzz是一个小框架，不是庞大的东西。
+ 
+ 如果这儿的资料不够，你可以加入我们的 [https://lists.sourceforge.net/lists/listinfo/guzz-mail-users 邮件列表] 提问，或加入QQ群：36429094
+  
+
+== 文档与帮助 ==
+
+ * [Lesson120 Guzz入门教程《手把手，教你编写1个可以并行使用5台数据库的留言板》] 
+
+ * [TutorialStart Guzz使用手册]
+
+ * [TaglibBook JSP页面开发帮助]
+
+ * [ArchitectureMMVC 基于声明数据的MMVC架构]
+
+ * [AboutFAQ 常见问题FAQ]
+ 
+
+== 示例代码 ==
+
+ * [DemosList 示例工程列表]
+  
+
+== 反馈与建议 ==
+
+ * [AboutFeedback 反馈与建议]
+ 
+ 
+== guzz不做的事情 ==
+
+ * 自动创建数据库表或者自动调整表结构，需DBA手工维护
+
+ * 自动同步多台数据库之间的数据，需数据库自身配置，必要时DBA手工分切数据
+
+ * 不支持领域对象之间相互关联的映射，如一对多，多对一，多对多等。对于join, union等复杂查询，必须通过类似ibatis的直接sql模式执行。
+ 

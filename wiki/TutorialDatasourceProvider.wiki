@@ -1,0 +1,180 @@
+== Set up a connection pool ==
+
+ guzz supports apache commons DBCP and C3P0 connection pool providers in default, and allow you to define your own one on yourself.
+
+ In the db configuration, item "guzz.maxLoad" indicates the max connections allowed in the pool, while item "pool" indicates which connection pool provider should be used.
+
+ Configuration item "pool" is optional, the default provider is "C3P0".
+
+ Example 1: Use C3P0 connection pool:
+
+{{{
+[masterDB]
+guzz.identifer=blogMasterDB
+guzz.IP=localhost
+guzz.maxLoad=120
+
+pool=c3p0
+
+driverClass=com.mysql.jdbc.Driver
+jdbcUrl=jdbc:mysql://localhost:3306/blog?useUnicode=true&amp;characterEncoding=UTF-8&amp;useServerPrepStmts=true
+user=root
+password=root
+acquireIncrement=10
+idleConnectionTestPeriod=60
+}}}
+
+ Example 2: Use Apache DBCP connection pool:
+
+{{{
+[logSlaveDB]
+guzz.identifer=logSlaveDB1
+guzz.IP=localhost
+guzz.maxLoad=30
+
+pool=dbcp
+
+driverClassName=com.mysql.jdbc.Driver
+url=jdbc:mysql://localhost:3306/log?useUnicode=true&amp;rewriteBatchedStatements=true
+username=log
+password=log
+initialSize=10
+minIdle=10
+maxWait=1000
+logAbandoned=true
+removeAbandoned=true
+removeAbandonedTimeout=180
+}}}
+
+ In the above example:
+
+{{{
+guzz.identifer=logSlaveDB1
+guzz.IP=localhost
+guzz.maxLoad=xxx
+}}}
+
+ are must (configuration). "guzz.identifer" must be unique to identify the pool, "guzz.IP" should be the database's IP address, and "guzz.maxLoad" is the max connections allowed.
+
+ Except for the three items starts with "guzz.", and the "pool" item to identify the provider, other items are properties of the provider implementation itself which will be injected in the javabean setXXX() style on startup. Guzz will do the type conversation.
+
+== connection pool provider supported ==
+
+|| *Provider name* || *pool value* || *parameters* ||
+|| C3P0(default) || c3p0 || http://www.mchange.com/projects/c3p0/index.html#configuration_properties ||
+|| Apache DBCP || dbcp || http://commons.apache.org/dbcp/configuration.html ||
+|| JNDI || jndi || *jndiName*: jndiName <br> *contextFactory*: The value of javax.naming.Context.INITIAL_CONTEXT_FACTORY ||
+|| No pool(connect on demand, and release on close.) || nopool || *driverClass*: driver class<br>*jdbcUrl*:jdbc url<br>*user*:user name<br>*password*:password ||
+
+== How to write a new provider? ==
+
+=== step 1, write the code: ===
+
+ In guzz, connection pool is managed by the DataSourceProvider. To write a new provider, you just have to implement the DataSourceProvider interface.
+
+ DataSourceProvider:
+
+{{{
+package org.guzz.connection;
+
+import java.util.Properties;
+import javax.sql.DataSource;
+
+public interface DataSourceProvider {
+	
+	/**
+	 * init or re-config the underly datasource.
+	 * <p/>
+	 * this method will be invoked at the startup, and may also be called by the configServer to re-config the settings(eg: reducing maxLoad when new db servers installed.).
+	 * 
+	 * @param props  the config properties from the configServer
+	 * @param maxLoad usually means max database connections suggested.
+	 */
+	public void configure(Properties props, int maxLoad) ;
+	
+	/**
+	 * fetch the datasource. This will be called on every connection requiring, so make it fast! 
+	 */
+	public DataSource getDataSource() ;
+	
+	/**
+	 * shutdown the pool.
+	 */
+	public void shutdown() ;
+
+}
+}}}
+
+ For example, the Apache DBCP connection pool provider is simply:
+
+{{{
+public class DBCPDataSourceProvider implements DataSourceProvider{
+	private static transient final Log log = LogFactory.getLog(DBCPDataSourceProvider.class) ;
+	BasicDataSource dataSource = null ;
+	
+	public void configure(Properties props, int maxLoad){
+		if(dataSource == null){
+			dataSource = new BasicDataSource() ;
+		}
+		
+		JavaBeanWrapper bw = BeanWrapper.createPOJOWrapper(dataSource.getClass()) ;
+		Enumeration e = props.keys() ;
+		while(e.hasMoreElements()){
+			String key = (String) e.nextElement() ;
+			String value = props.getProperty(key) ;
+			
+			try{
+				bw.setValueAutoConvert(dataSource, key, value) ;
+			}catch(Exception e1){
+				log.error("unknown property:[" + key + "=" + value + "]", e1) ;
+			}
+		}
+		
+		//default max connections:500
+		if(maxLoad > 1000 || maxLoad < 1){
+			maxLoad = 500 ;
+		}
+		
+                //set the max connection number to the underly Connection Pool.
+		dataSource.setMaxActive(maxLoad) ;
+		
+		//fetch a connection to force the datasource to build the pool
+		Connection c = null ;
+		try {
+			c = dataSource.getConnection() ;
+		} catch (SQLException e1) {
+			log.error(props, e1) ;
+		}finally{
+			CloseUtil.close(c) ;
+		}
+	}
+
+	public DataSource getDataSource() {
+		return dataSource ;
+	}
+
+	public void shutdown() {
+		if(dataSource != null){
+			try {
+				dataSource.close() ;
+			} catch (SQLException e) {
+				log.error("fail to shutdown the DBCPDataSource", e) ;
+			}
+			
+			dataSource = null ;
+		}
+	}
+}
+}}}
+
+ The argument "props" in "public void configure(Properties props, int maxLoad) ;" would be the properties configured in the "guzz_app.properties" without item "pool" and items starts with "guzz.".
+
+ The implementation class must also provide a public construct method with no arguments.
+ 
+=== step 2, choose it in the configuration: ===
+
+ This is simple. You just have to set the item "pool" to the full qualified class name of your implementation. For example:
+
+{{{
+pool=org.guzz.connection.DBCPDataSourceProvider
+}}}

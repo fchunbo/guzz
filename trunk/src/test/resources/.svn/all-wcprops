@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/520/trunk/src/test/resources
+END
+guzzmain_test1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/520/trunk/src/test/resources/guzzmain_test1.xml
+END
+applicationContext_solo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/489/trunk/src/test/resources/applicationContext_solo.xml
+END
+guzzmain_spring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/506/trunk/src/test/resources/guzzmain_spring.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/489/trunk/src/test/resources/applicationContext.xml
+END
+9a3f8376-beb9-437b-8928-290eb0ba4420.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/511/trunk/src/test/resources/9a3f8376-beb9-437b-8928-290eb0ba4420.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/457/trunk/src/test/resources/log4j.properties
+END
+guzz_test1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/457/trunk/src/test/resources/guzz_test1.properties
+END
+guzz_test2.properties
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/506/trunk/src/test/resources/guzz_test2.properties
+END
+guzzmain_test1_annotation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/520/trunk/src/test/resources/guzzmain_test1_annotation.xml
+END
+bytes.data
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/457/trunk/src/test/resources/bytes.data
+END

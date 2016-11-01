@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/web/context
+END
+ContextLoaderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/web/context/ContextLoaderListener.java
+END
+GuzzWebApplicationContextUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/web/context/GuzzWebApplicationContextUtil.java
+END
+GuzzContextAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/web/context/GuzzContextAware.java
+END
+ContextLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/web/context/ContextLoader.java
+END
+ExtendedBeanFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/web/context/ExtendedBeanFactory.java
+END
+ExtendedBeanFactoryAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/web/context/ExtendedBeanFactoryAware.java
+END

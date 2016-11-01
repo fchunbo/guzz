@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/37/bicq/src/mm/smy/bicq/search
+END
+SearchByNickname.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/37/bicq/src/mm/smy/bicq/search/SearchByNickname.java
+END
+SearchGuestManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/search/SearchGuestManager.java
+END
+SearchByNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/37/bicq/src/mm/smy/bicq/search/SearchByNumber.java
+END
+SearchByGFA.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/37/bicq/src/mm/smy/bicq/search/SearchByGFA.java
+END
+SearchStep1.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/search/SearchStep1.java
+END
+SearchStep2.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/37/bicq/src/mm/smy/bicq/search/SearchStep2.java
+END
+SearchStep3.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/search/SearchStep3.java
+END
+TempUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/search/TempUser.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/569/demos/en/MessageBoard/WebRoot/WEB-INF
+END
+dispatcher-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/569/demos/en/MessageBoard/WebRoot/WEB-INF/dispatcher-servlet.xml
+END
+messageBoard.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/569/demos/en/MessageBoard/WebRoot/WEB-INF/messageBoard.properties
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/569/demos/en/MessageBoard/WebRoot/WEB-INF/applicationContext.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/569/demos/en/MessageBoard/WebRoot/WEB-INF/web.xml
+END
+guzz.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/569/demos/en/MessageBoard/WebRoot/WEB-INF/guzz.xml
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/457/trunk/src/test/java/org/guzz/orm/mapping
+END
+TestHbmXMLBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/457/trunk/src/test/java/org/guzz/orm/mapping/TestHbmXMLBuilder.java
+END
+TestLazyLoad.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/457/trunk/src/test/java/org/guzz/orm/mapping/TestLazyLoad.java
+END

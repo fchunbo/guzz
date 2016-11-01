@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/577/trunk/src/main/java/org/guzz
+END
+Guzz.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/Guzz.java
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/511/trunk/src/main/java/org/guzz/Service.java
+END
+GuzzContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/GuzzContext.java
+END
+ContextLifeCycle.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/ContextLifeCycle.java
+END
+GuzzContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/520/trunk/src/main/java/org/guzz/GuzzContextImpl.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/Configuration.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/475/trunk/src/test/resources/org/guzz/test
+END
+ArticleCount.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/457/trunk/src/test/resources/org/guzz/test/ArticleCount.hbm.xml
+END
+User.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/475/trunk/src/test/resources/org/guzz/test/User.hbm.xml
+END
+Comment.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/457/trunk/src/test/resources/org/guzz/test/Comment.hbm.xml
+END
+Article.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/457/trunk/src/test/resources/org/guzz/test/Article.hbm.xml
+END
+UserInfoH2.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/457/trunk/src/test/resources/org/guzz/test/UserInfoH2.hbm.xml
+END
+Book.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/457/trunk/src/test/resources/org/guzz/test/Book.hbm.xml
+END
+UserInfo.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/457/trunk/src/test/resources/org/guzz/test/UserInfo.hbm.xml
+END

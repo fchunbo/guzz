@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/476/trunk/src/main/java/org/guzz/dialect
+END
+Oracle9iDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/dialect/Oracle9iDialect.java
+END
+H2Dialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/dialect/H2Dialect.java
+END
+Mysql5Dialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/dialect/Mysql5Dialect.java
+END
+Oracle10gDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/dialect/Oracle10gDialect.java
+END
+Oracle11gDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/dialect/Oracle11gDialect.java
+END
+MSSQLDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/dialect/MSSQLDialect.java
+END
+Dialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/dialect/Dialect.java
+END
+AbstractDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/476/trunk/src/main/java/org/guzz/dialect/AbstractDialect.java
+END
+Oracle8iDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/dialect/Oracle8iDialect.java
+END

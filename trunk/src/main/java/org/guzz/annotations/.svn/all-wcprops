@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/478/trunk/src/main/java/org/guzz/annotations
+END
+Entity.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/annotations/Entity.java
+END
+Column.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/478/trunk/src/main/java/org/guzz/annotations/Column.java
+END
+Parameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/annotations/Parameter.java
+END
+GenericGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/annotations/GenericGenerator.java
+END
+GenericGenerators.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/annotations/GenericGenerators.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/annotations/Table.java
+END

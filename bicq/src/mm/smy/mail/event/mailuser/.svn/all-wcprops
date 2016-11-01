@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/34/bicq/src/mm/smy/mail/event/mailuser
+END
+MailUserCountChangedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/34/bicq/src/mm/smy/mail/event/mailuser/MailUserCountChangedListener.java
+END
+UserFolderEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/34/bicq/src/mm/smy/mail/event/mailuser/UserFolderEvent.java
+END
+MailUserChangedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/34/bicq/src/mm/smy/mail/event/mailuser/MailUserChangedEvent.java
+END
+UserFolderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/34/bicq/src/mm/smy/mail/event/mailuser/UserFolderListener.java
+END
+MailUserChangedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/34/bicq/src/mm/smy/mail/event/mailuser/MailUserChangedListener.java
+END
+MailUserCountChangedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/34/bicq/src/mm/smy/mail/event/mailuser/MailUserCountChangedEvent.java
+END

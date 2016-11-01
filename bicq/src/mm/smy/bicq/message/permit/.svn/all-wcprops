@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/permit
+END
+AllowWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/permit/AllowWindow.java
+END
+PermitMessageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/permit/PermitMessageManager.java
+END
+RefuseWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/permit/RefuseWindow.java
+END
+SendRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/permit/SendRequest.java
+END
+SendReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/permit/SendReply.java
+END

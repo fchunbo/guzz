@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message
+END
+ICMPMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/ICMPMessage.java
+END
+StateChangedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/StateChangedMessage.java
+END
+TextMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/TextMessageListener.java
+END
+ICMPMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/ICMPMessageListener.java
+END
+StateChangedMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/StateChangedMessageListener.java
+END
+PermitMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/PermitMessage.java
+END
+PermitMessageFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/PermitMessageFile.java
+END
+AbstractMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/AbstractMessage.java
+END
+PermitMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/PermitMessageListener.java
+END
+TempHold.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/TempHold.java
+END
+UserPswMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/UserPswMessage.java
+END
+SearchGuestResultMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/SearchGuestResultMessage.java
+END
+UserInforMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/UserInforMessage.java
+END
+SearchGuestMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/SearchGuestMessage.java
+END
+UserPswMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/UserPswMessageListener.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/Message.java
+END
+OtherMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/OtherMessage.java
+END
+MessageType.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/MessageType.java
+END
+SearchGuestResultMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/SearchGuestResultMessageListener.java
+END
+UserInforMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/UserInforMessageListener.java
+END
+SearchGuestMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/SearchGuestMessageListener.java
+END
+RegisterMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/RegisterMessage.java
+END
+TextMessageFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/TextMessageFile.java
+END
+TextMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/TextMessage.java
+END
+MessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/MessageListener.java
+END
+LoadGuestResultMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/LoadGuestResultMessage.java
+END
+ReceivedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/ReceivedMessage.java
+END
+OtherMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/message/OtherMessageListener.java
+END

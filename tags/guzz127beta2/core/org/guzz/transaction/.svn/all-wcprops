@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/transaction
+END
+AbstractTranSessionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/transaction/AbstractTranSessionImpl.java
+END
+ConnectionFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/transaction/ConnectionFetcher.java
+END
+TransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/transaction/TransactionManager.java
+END
+DBGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/transaction/DBGroup.java
+END
+WriteTranSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/transaction/WriteTranSession.java
+END
+WriteTranSessionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/transaction/WriteTranSessionImpl.java
+END
+ReadonlyTranSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/transaction/ReadonlyTranSession.java
+END
+ReadonlyTranSessionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/transaction/ReadonlyTranSessionImpl.java
+END
+TransactionManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/transaction/TransactionManagerFactory.java
+END
+DataSourceTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/transaction/DataSourceTransactionManager.java
+END
+DBGroupManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/transaction/DBGroupManager.java
+END
+LockMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/transaction/LockMode.java
+END

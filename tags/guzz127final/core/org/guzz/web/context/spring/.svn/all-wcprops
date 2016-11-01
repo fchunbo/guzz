@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/web/context/spring
+END
+GuzzServiceFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/web/context/spring/GuzzServiceFactoryBean.java
+END
+GuzzWithSpringContextLoaderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/web/context/spring/GuzzWithSpringContextLoaderListener.java
+END
+SpringExtendedBeanFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/web/context/spring/SpringExtendedBeanFactory.java
+END
+GuzzContextBeanFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/web/context/spring/GuzzContextBeanFactory.java
+END

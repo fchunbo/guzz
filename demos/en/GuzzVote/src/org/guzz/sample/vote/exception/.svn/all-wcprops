@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/445/demos/en/GuzzVote/src/org/guzz/sample/vote/exception
+END
+InvalidParamException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/445/demos/en/GuzzVote/src/org/guzz/sample/vote/exception/InvalidParamException.java
+END
+DuplicateVoteException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/445/demos/en/GuzzVote/src/org/guzz/sample/vote/exception/DuplicateVoteException.java
+END
+VoteException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/445/demos/en/GuzzVote/src/org/guzz/sample/vote/exception/VoteException.java
+END

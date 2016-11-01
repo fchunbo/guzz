@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/jdbc
+END
+AbstractBatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/jdbc/AbstractBatcher.java
+END
+JDBCTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/jdbc/JDBCTemplate.java
+END
+ObjectBatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/jdbc/ObjectBatcher.java
+END
+JDBCTemplateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/jdbc/JDBCTemplateImpl.java
+END
+ObjectBatcherImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/jdbc/ObjectBatcherImpl.java
+END
+Batcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/jdbc/Batcher.java
+END
+SQLBatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/jdbc/SQLBatcher.java
+END
+SQLBatcherImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/jdbc/SQLBatcherImpl.java
+END

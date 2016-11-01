@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/520/trunk/src/main/resources/META-INF
+END
+guzz.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/520/trunk/src/main/resources/META-INF/guzz.dtd
+END
+release
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/520/trunk/src/main/resources/META-INF/release
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/490/trunk/src/main/resources/META-INF/NOTICE
+END
+Apache2.0
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/457/trunk/src/main/resources/META-INF/Apache2.0
+END
+guzz.tld
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/514/trunk/src/main/resources/META-INF/guzz.tld
+END
+guzz-mapping.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/520/trunk/src/main/resources/META-INF/guzz-mapping.dtd
+END

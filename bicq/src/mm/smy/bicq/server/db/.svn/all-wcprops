@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/db
+END
+ReadWriteStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/db/ReadWriteStatement.java
+END
+reflect.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/db/reflect.txt
+END
+ReadonlyStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/db/ReadonlyStatement.java
+END
+DBConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/db/DBConnection.java
+END
+BugWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/db/BugWriter.java
+END

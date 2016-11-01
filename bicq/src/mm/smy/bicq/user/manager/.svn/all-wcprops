@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/user/manager
+END
+GuestGroupManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/user/manager/GuestGroupManager.java
+END
+UserNetManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/user/manager/UserNetManager.java
+END
+HostManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/user/manager/HostManager.java
+END
+UserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/user/manager/UserManager.java
+END
+UserFileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/user/manager/UserFileManager.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/manager
+END
+IAntiCheatPolicyChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/manager/IAntiCheatPolicyChecker.java
+END
+IBigVoteManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/manager/IBigVoteManager.java
+END
+IAntiCheatPolicyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/manager/IAntiCheatPolicyManager.java
+END
+IVoteExtraPropertyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/manager/IVoteExtraPropertyManager.java
+END
+IChannelManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/manager/IChannelManager.java
+END
+IVoteItemGroupManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/manager/IVoteItemGroupManager.java
+END
+IUserInputValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/manager/IUserInputValidator.java
+END

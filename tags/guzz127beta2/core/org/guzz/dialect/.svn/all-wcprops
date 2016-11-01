@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/dialect
+END
+Oracle10gDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/dialect/Oracle10gDialect.java
+END
+Dialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/dialect/Dialect.java
+END
+AbstractDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/dialect/AbstractDialect.java
+END
+Oracle8iDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/dialect/Oracle8iDialect.java
+END
+Oracle9iDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/dialect/Oracle9iDialect.java
+END
+H2Dialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/dialect/H2Dialect.java
+END
+Mysql5Dialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/dialect/Mysql5Dialect.java
+END

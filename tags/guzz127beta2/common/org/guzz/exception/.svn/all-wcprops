@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/tags/guzz127beta2/common/org/guzz/exception
+END
+IllegalParameterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/23/tags/guzz127beta2/common/org/guzz/exception/IllegalParameterException.java
+END
+DataTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/23/tags/guzz127beta2/common/org/guzz/exception/DataTypeException.java
+END
+ORMException.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/23/tags/guzz127beta2/common/org/guzz/exception/ORMException.java
+END
+InvalidConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/23/tags/guzz127beta2/common/org/guzz/exception/InvalidConfigurationException.java
+END
+GuzzException.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/23/tags/guzz127beta2/common/org/guzz/exception/GuzzException.java
+END
+NoSuchServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/23/tags/guzz127beta2/common/org/guzz/exception/NoSuchServiceException.java
+END
+DaoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/23/tags/guzz127beta2/common/org/guzz/exception/DaoException.java
+END
+ServiceExecutionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/23/tags/guzz127beta2/common/org/guzz/exception/ServiceExecutionException.java
+END
+ServiceTimeoutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/23/tags/guzz127beta2/common/org/guzz/exception/ServiceTimeoutException.java
+END
+NoSuchResourceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/23/tags/guzz127beta2/common/org/guzz/exception/NoSuchResourceException.java
+END

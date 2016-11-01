@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/id
+END
+IdentifierGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/id/IdentifierGenerator.java
+END
+SequenceIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/id/SequenceIdGenerator.java
+END
+GUIDIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/id/GUIDIdGenerator.java
+END
+Configurable.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/id/Configurable.java
+END
+AssignedIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/id/AssignedIdGenerator.java
+END
+AutoIncrementIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/id/AutoIncrementIdGenerator.java
+END
+SlientIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/id/SlientIdGenerator.java
+END

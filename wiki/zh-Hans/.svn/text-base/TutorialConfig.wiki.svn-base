@@ -1,0 +1,115 @@
+== 配置与启动guzz ==
+
+ guzz程序的核心为GuzzContext对象，完成GuzzContext的初始化并获取其引用，即可使用guzz的全部功能。
+
+===  Standalone程序：===
+
+ 创建guzz的核心配置文件guzz.xml，并存在classpath目录下。
+
+{{{
+import org.guzz.Configuration;
+import org.guzz.GuzzContext;
+
+GuzzContext gc = new Configuration("classpath:guzz.xml").newGuzzContext() ;
+//perform you actions......
+//.....
+//shutting it down when you application exit.
+gc.shutdown() ;
+}}}
+
+=== 普通的Web应用： ===
+
+ 创建guzz的核心配置文件guzz.xml，并存在在/WEB-INF/目录下。
+
+ 修改web.xml文件，增加如下项：
+
+{{{
+<context-param>
+   <param-name>guzzConfigLocation</param-name>
+   <param-value>/WEB-INF/guzz.xml</param-value>
+</context-param>
+
+<listener>
+   <listener-class>
+      org.guzz.web.context.ContextLoaderListener
+   </listener-class>
+</listener>
+}}}
+
+ 此时在jsp页面中就可以使用guzz的taglib进行数据库操作。
+ 
+ GuzzContext 将会在web app退出时，由容器通知关闭。
+
+=== 使用Spring IOC的web应用程序： ===
+
+ * 1. 创建guzz的核心配置文件guzz.xml，并存在在/WEB-INF/目录下。
+
+ * 2. 修改web.xml的配置项，将spring的ContextLoader的Loader定义删掉，如：
+
+{{{
+<listener>
+	<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
+</listener>
+}}}
+
+ 换成Guzz针对spring的Listener：
+
+{{{
+<listener>
+      <listener-class>org.guzz.web.context.spring.GuzzWithSpringContextLoaderListener</listener-class>
+</listener>
+}}}
+
+ * 3. 修改spring的applicationContext.xml，增加GuzzContext的配置：
+
+{{{
+<bean id="guzzContext" class="org.guzz.web.context.spring.GuzzContextBeanFactory" factory-method="createGuzzContext">
+    <constructor-arg><value>/WEB-INF/guzz.xml</value></constructor-arg>
+</bean>
+}}}
+ 一般情况下，我们还需要增加一个BaseDao的bean，类似hibernate中的sessionFactory.getHibernateTemplate()，基于此创建应用自己的Dao或Manager。
+
+{{{
+<bean id="abstractGuzzDao" class="org.guzz.dao.GuzzBaseDao" abstract="true">
+     <property name="guzzContext" ref="guzzContext" />
+</bean>
+}}}
+
+ * 4. 支持spring声明式事务（需要guzz 1.3.0+）：
+ 
+ 修改guzz.xml，在tran定义上增加一个属性：locator="spring" 类似这样：
+{{{
+<tran locator="spring">
+}}}
+ 
+ 如果您在spring中配置过Hibernate的声明式事务，把配置copy过来，然后（一般在applicationContext.xml文件中）修改transactionManager如下即可：
+
+{{{
+<bean id="transactionManager" class="org.guzz.web.context.spring.GuzzTransactionManager">  
+	<property name="guzzContext" ref="guzzContext" />
+</bean>
+}}}
+
+ 如果你忘了怎么配置，这是一篇很好的文章：[http://jie2workjava.iteye.com/blog/446250 Spring事务配置的五种方式]
+ 
+ 
+*补丁：* 如果是基于annotation @Transactiona的事务声明，请下载  http://guzz.googlecode.com/svn/wiki/no-wikis/GuzzBaseDao.java [file encoding:UTF-8] 这个类，在自己的工程中建个org.guzz.dao然后放进去，覆盖jar包中的类。
+ 
+ 
+ 
+ * 5. 至此，就完成了guzz和spring IOC的集成。guzzContext可以通过spring bean获取的，也可以通过GuzzWebApplicationContextUtil获取到。
+ 
+=== 在web应用中获取GuzzContext： === 
+ 
+按照普通web或者spring web方式配置的guzz，可以在servlet和JSP中，通过如下方式获取到GuzzContext：
+
+{{{
+import org.guzz.GuzzContext;
+
+//session is HttpSession
+//or pass ServletContext
+GuzzContext gc = org.guzz.web.context.GuzzWebApplicationContextUtil.getGuzzContext(session.getServletContext()) ;
+}}}
+ 
+ 
+ 

@@ -1,0 +1,64 @@
+10
+
+dir
+577
+http://guzz.googlecode.com/svn/tags/guzz127beta2/test/org/guzz
+http://guzz.googlecode.com/svn
+
+
+
+2010-03-05T08:55:13.175531Z
+21
+liukaixuan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fb99edf0-f902-11de-8591-91bc733d3be8
+
+test
+dir
+
+connection
+dir
+
+asm
+dir
+
+impl
+dir
+
+jdbc
+dir
+
+dao
+dir
+
+transaction
+dir
+
+dialect
+dir
+
+builder
+dir
+
+pojo
+dir
+
+orm
+dir
+
+util
+dir
+

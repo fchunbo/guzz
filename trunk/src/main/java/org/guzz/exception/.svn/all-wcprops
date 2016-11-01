@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/exception
+END
+ServiceTimeoutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/exception/ServiceTimeoutException.java
+END
+NoSuchResourceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/exception/NoSuchResourceException.java
+END
+IllegalParameterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/exception/IllegalParameterException.java
+END
+DataTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/exception/DataTypeException.java
+END
+ORMException.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/exception/ORMException.java
+END
+InvalidConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/exception/InvalidConfigurationException.java
+END
+GuzzException.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/exception/GuzzException.java
+END
+NoSuchServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/exception/NoSuchServiceException.java
+END
+JDBCException.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/exception/JDBCException.java
+END
+DaoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/exception/DaoException.java
+END
+ServiceExecutionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/exception/ServiceExecutionException.java
+END

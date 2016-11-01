@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/471/trunk/src/test/java/org/guzz/jdbc
+END
+TestSQLBatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/457/trunk/src/test/java/org/guzz/jdbc/TestSQLBatcher.java
+END
+TestObjectBatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/471/trunk/src/test/java/org/guzz/jdbc/TestObjectBatcher.java
+END

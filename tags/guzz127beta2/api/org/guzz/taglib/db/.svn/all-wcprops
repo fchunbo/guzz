@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/tags/guzz127beta2/api/org/guzz/taglib/db
+END
+GhostAddLimitTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/23/tags/guzz127beta2/api/org/guzz/taglib/db/GhostAddLimitTag.java
+END
+GhostCountTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/23/tags/guzz127beta2/api/org/guzz/taglib/db/GhostCountTag.java
+END
+GhostBirthTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/23/tags/guzz127beta2/api/org/guzz/taglib/db/GhostBirthTag.java
+END
+GhostIncTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/tags/guzz127beta2/api/org/guzz/taglib/db/GhostIncTag.java
+END
+SummonTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/tags/guzz127beta2/api/org/guzz/taglib/db/SummonTag.java
+END
+GhostListTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/tags/guzz127beta2/api/org/guzz/taglib/db/GhostListTag.java
+END
+SetPropertyTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/23/tags/guzz127beta2/api/org/guzz/taglib/db/SetPropertyTag.java
+END
+GhostPageTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/tags/guzz127beta2/api/org/guzz/taglib/db/GhostPageTag.java
+END
+RestGhostTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/tags/guzz127beta2/api/org/guzz/taglib/db/RestGhostTag.java
+END
+GhostGrowTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/tags/guzz127beta2/api/org/guzz/taglib/db/GhostGrowTag.java
+END
+GhostAddInLimitTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/23/tags/guzz127beta2/api/org/guzz/taglib/db/GhostAddInLimitTag.java
+END
+GhostGetTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/tags/guzz127beta2/api/org/guzz/taglib/db/GhostGetTag.java
+END
+GhostDieTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/tags/guzz127beta2/api/org/guzz/taglib/db/GhostDieTag.java
+END
+GhostBoundaryTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/23/tags/guzz127beta2/api/org/guzz/taglib/db/GhostBoundaryTag.java
+END

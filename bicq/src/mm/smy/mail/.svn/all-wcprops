@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/34/bicq/src/mm/smy/mail
+END
+MailContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/34/bicq/src/mm/smy/mail/MailContext.java
+END
+UserFolderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/34/bicq/src/mm/smy/mail/UserFolderException.java
+END
+UserFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/34/bicq/src/mm/smy/mail/UserFolder.java
+END
+MailFolderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/34/bicq/src/mm/smy/mail/MailFolderException.java
+END
+MailFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/34/bicq/src/mm/smy/mail/MailFolder.java
+END
+MailUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/34/bicq/src/mm/smy/mail/MailUser.java
+END
+Mail.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/34/bicq/src/mm/smy/mail/Mail.java
+END

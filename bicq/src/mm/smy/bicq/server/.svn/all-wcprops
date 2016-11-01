@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server
+END
+StartServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/StartServer.java
+END
+ServerSendMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/ServerSendMessage.java
+END
+ServerMainManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/ServerMainManager.java
+END

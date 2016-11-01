@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/sql/impl
+END
+CompiledSQLBuilderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/sql/impl/CompiledSQLBuilderImpl.java
+END
+CompiledSQLManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/sql/impl/CompiledSQLManagerImpl.java
+END
+SQLCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/sql/impl/SQLCompiler.java
+END

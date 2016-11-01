@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/user
+END
+UpdateUserDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/user/UpdateUserDB.java
+END
+InsertUserDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/user/InsertUserDB.java
+END
+MyFriendsDBDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/user/MyFriendsDBDelete.java
+END
+MyFriendsDBInsert.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/user/MyFriendsDBInsert.java
+END
+MyFriendsDBQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/user/MyFriendsDBQuery.java
+END
+ServerGuest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/user/ServerGuest.java
+END
+OnlineManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/user/OnlineManager.java
+END
+OnlineUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/user/OnlineUser.java
+END
+SelectUserDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/user/SelectUserDB.java
+END

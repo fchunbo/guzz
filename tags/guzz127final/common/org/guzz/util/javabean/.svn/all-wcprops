@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/58/tags/guzz127final/common/org/guzz/util/javabean
+END
+IDataTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/58/tags/guzz127final/common/org/guzz/util/javabean/IDataTypeHandler.java
+END
+JavaTypeHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/58/tags/guzz127final/common/org/guzz/util/javabean/JavaTypeHandlers.java
+END
+BeanCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/58/tags/guzz127final/common/org/guzz/util/javabean/BeanCreator.java
+END
+BeanWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/58/tags/guzz127final/common/org/guzz/util/javabean/BeanWrapper.java
+END
+JavaBeanWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/58/tags/guzz127final/common/org/guzz/util/javabean/JavaBeanWrapper.java
+END

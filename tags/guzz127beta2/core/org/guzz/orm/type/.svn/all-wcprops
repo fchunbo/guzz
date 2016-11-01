@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/orm/type
+END
+FloatSQLDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/orm/type/FloatSQLDataType.java
+END
+StringSQLDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/orm/type/StringSQLDataType.java
+END
+DoubleSQLDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/orm/type/DoubleSQLDataType.java
+END
+BigIntSQLDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/orm/type/BigIntSQLDataType.java
+END
+DateSQLDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/orm/type/DateSQLDataType.java
+END
+BlobSQLDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/orm/type/BlobSQLDataType.java
+END
+SQLDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/orm/type/SQLDataType.java
+END
+ClobSQLDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/orm/type/ClobSQLDataType.java
+END
+BooleanSQLDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/orm/type/BooleanSQLDataType.java
+END
+BigDecimalSQLDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/orm/type/BigDecimalSQLDataType.java
+END
+BinarySQLDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/orm/type/BinarySQLDataType.java
+END
+DateTimeSQLDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/orm/type/DateTimeSQLDataType.java
+END
+IntegerSQLDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/orm/type/IntegerSQLDataType.java
+END
+TimeSQLDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/orm/type/TimeSQLDataType.java
+END
+ShortSQLDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/orm/type/ShortSQLDataType.java
+END

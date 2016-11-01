@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/business
+END
+BigVote.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/business/BigVote.java
+END
+VoteTerritory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/business/VoteTerritory.java
+END
+VoteLog.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/business/VoteLog.hbm.xml
+END
+TerritoryVoteLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/business/TerritoryVoteLog.java
+END
+AntiCheatPolicy.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/business/AntiCheatPolicy.hbm.xml
+END
+Channel.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/business/Channel.java
+END
+VoteItemGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/business/VoteItemGroup.java
+END
+VoteExtraProperty.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/business/VoteExtraProperty.hbm.xml
+END
+IncUpdateBusiness.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/business/IncUpdateBusiness.hbm.xml
+END
+VoteLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/business/VoteLog.java
+END
+AntiCheatPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/business/AntiCheatPolicy.java
+END
+VoteItem.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/business/VoteItem.hbm.xml
+END
+BigVoteInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/business/BigVoteInterpreter.java
+END
+BigVote.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/business/BigVote.hbm.xml
+END
+VoteTerritory.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/business/VoteTerritory.hbm.xml
+END
+VoteExtraProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/business/VoteExtraProperty.java
+END
+TerritoryVoteLog.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/business/TerritoryVoteLog.hbm.xml
+END
+Channel.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/business/Channel.hbm.xml
+END
+VoteItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/business/VoteItem.java
+END
+VoteItemGroup.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/business/VoteItemGroup.hbm.xml
+END

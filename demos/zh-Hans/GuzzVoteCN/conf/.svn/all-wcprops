@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/conf
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/conf/log4j.properties
+END
+ehcache.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/conf/ehcache.xsd
+END
+ehcache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/conf/ehcache.xml
+END

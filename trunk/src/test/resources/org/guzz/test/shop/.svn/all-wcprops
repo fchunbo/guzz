@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/457/trunk/src/test/resources/org/guzz/test/shop
+END
+SpecialProperty.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/457/trunk/src/test/resources/org/guzz/test/shop/SpecialProperty.hbm.xml
+END
+Cargo.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/457/trunk/src/test/resources/org/guzz/test/shop/Cargo.hbm.xml
+END

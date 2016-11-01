@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/445/demos/en/GuzzVote/src/org/guzz/sample/vote/action/console
+END
+ChannelAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/445/demos/en/GuzzVote/src/org/guzz/sample/vote/action/console/ChannelAction.java
+END
+VoteItemGroupAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/445/demos/en/GuzzVote/src/org/guzz/sample/vote/action/console/VoteItemGroupAction.java
+END
+VoteItemAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/445/demos/en/GuzzVote/src/org/guzz/sample/vote/action/console/VoteItemAction.java
+END
+BigVoteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/445/demos/en/GuzzVote/src/org/guzz/sample/vote/action/console/BigVoteAction.java
+END
+AntiCheatPolicyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/445/demos/en/GuzzVote/src/org/guzz/sample/vote/action/console/AntiCheatPolicyAction.java
+END
+VoteTerritoryAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/445/demos/en/GuzzVote/src/org/guzz/sample/vote/action/console/VoteTerritoryAction.java
+END
+VoteExtraPropertyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/445/demos/en/GuzzVote/src/org/guzz/sample/vote/action/console/VoteExtraPropertyAction.java
+END

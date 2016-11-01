@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/548/trunk/doc
+END
+tlddoc-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/548/trunk/doc/tlddoc-1.3.jar
+END
+utest.ant
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/29/trunk/doc/utest.ant
+END
+tlddoc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/548/trunk/doc/tlddoc.txt
+END
+maven install
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/468/trunk/doc/maven%20install
+END
+speed.txt
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/5/trunk/doc/speed.txt
+END
+batch speed.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5/trunk/doc/batch%20speed.txt
+END

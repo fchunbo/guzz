@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/450/demos/en/GuzzVote/WebRoot/WEB-INF
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/450/demos/en/GuzzVote/WebRoot/WEB-INF/web.xml
+END
+guzz.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/450/demos/en/GuzzVote/WebRoot/WEB-INF/guzz.xml
+END
+dispatcher-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/450/demos/en/GuzzVote/WebRoot/WEB-INF/dispatcher-servlet.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/450/demos/en/GuzzVote/WebRoot/WEB-INF/applicationContext.xml
+END
+bigVote.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/450/demos/en/GuzzVote/WebRoot/WEB-INF/bigVote.properties
+END

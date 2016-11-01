@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/520/trunk/src/main/java/org/guzz/builder
+END
+HbmXMLBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/520/trunk/src/main/java/org/guzz/builder/HbmXMLBuilder.java
+END
+JPA2AnnotationsBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/471/trunk/src/main/java/org/guzz/builder/JPA2AnnotationsBuilder.java
+END
+GuzzConfigFileBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/520/trunk/src/main/java/org/guzz/builder/GuzzConfigFileBuilder.java
+END

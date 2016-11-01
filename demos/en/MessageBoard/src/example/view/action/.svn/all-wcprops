@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/569/demos/en/MessageBoard/src/example/view/action
+END
+DeleteMessageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/569/demos/en/MessageBoard/src/example/view/action/DeleteMessageAction.java
+END
+NewMessageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/569/demos/en/MessageBoard/src/example/view/action/NewMessageAction.java
+END
+VoteMessageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/569/demos/en/MessageBoard/src/example/view/action/VoteMessageAction.java
+END

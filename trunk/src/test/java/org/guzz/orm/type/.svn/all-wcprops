@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/471/trunk/src/test/java/org/guzz/orm/type
+END
+TestNullValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/471/trunk/src/test/java/org/guzz/orm/type/TestNullValue.java
+END
+TestBlobType.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/457/trunk/src/test/java/org/guzz/orm/type/TestBlobType.java
+END
+TestClobType.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/457/trunk/src/test/java/org/guzz/orm/type/TestClobType.java
+END

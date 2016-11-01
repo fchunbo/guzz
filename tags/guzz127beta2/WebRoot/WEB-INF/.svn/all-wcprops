@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF
+END
+dispatcher-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/dispatcher-servlet.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/applicationContext.xml
+END
+guzz_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/guzz_app.properties
+END
+web_guzz.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/web_guzz.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/web.xml
+END
+guzz.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/guzz.xml
+END

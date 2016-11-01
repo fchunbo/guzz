@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/489/trunk/src/test/java/org/guzz/dao
+END
+IUserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/489/trunk/src/test/java/org/guzz/dao/IUserDao.java
+END
+SoloDaoTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/489/trunk/src/test/java/org/guzz/dao/SoloDaoTestCase.java
+END
+SpringGuzzTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/489/trunk/src/test/java/org/guzz/dao/SpringGuzzTestCase.java
+END
+UserDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/489/trunk/src/test/java/org/guzz/dao/UserDaoImpl.java
+END

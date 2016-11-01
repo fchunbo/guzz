@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/488/trunk/src/main/java/org/guzz/bytecode
+END
+ProxyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/bytecode/ProxyFactory.java
+END
+CglibProxyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/bytecode/CglibProxyFactory.java
+END
+BusinessDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/488/trunk/src/main/java/org/guzz/bytecode/BusinessDescriptor.java
+END
+LazyPropChangeDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/bytecode/LazyPropChangeDetector.java
+END

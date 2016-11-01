@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/message
+END
+TextDBDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/message/TextDBDelete.java
+END
+TextDBInsert.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/message/TextDBInsert.java
+END
+ServerAbstractMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/message/ServerAbstractMessage.java
+END
+TextDBQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/message/TextDBQuery.java
+END
+ServerTextMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/message/ServerTextMessage.java
+END
+ServerStateChangedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/message/ServerStateChangedMessage.java
+END
+PermitDBDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/message/PermitDBDelete.java
+END
+PermitDBInsert.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/message/PermitDBInsert.java
+END
+ServerPermitMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/message/ServerPermitMessage.java
+END
+PermitDBQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/message/PermitDBQuery.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/orm/interpreter
+END
+LogicOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/orm/interpreter/LogicOperation.java
+END
+AbstractBusinessInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/orm/interpreter/AbstractBusinessInterpreter.java
+END
+SEBusinessInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/orm/interpreter/SEBusinessInterpreter.java
+END
+ConditionSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/orm/interpreter/ConditionSegment.java
+END
+BusinessInterpreterManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/orm/interpreter/BusinessInterpreterManager.java
+END

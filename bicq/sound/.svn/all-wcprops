@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/34/bicq/sound
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/34/bicq/sound/readme.txt
+END
+ring.wav
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/34/bicq/sound/ring.wav
+END
+global.wav
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/34/bicq/sound/global.wav
+END
+online.wav
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/34/bicq/sound/online.wav
+END
+system.wav
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/34/bicq/sound/system.wav
+END
+msg.wav
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/34/bicq/sound/msg.wav
+END
+folder.wav
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/34/bicq/sound/folder.wav
+END
+call.wav
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/34/bicq/sound/call.wav
+END

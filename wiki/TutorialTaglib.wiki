@@ -1,0 +1,214 @@
+== Setup guzz taglib ==
+
+ Two steps:
+ * Introduce guzz to your system, make it run.
+ * Add a taglib declaration: <%@ taglib uri="http://www.guzz.org/tags" prefix="g" %> in your JSP file.
+
+ The tld definition is stored under META-INF in guzz.jar.
+
+== Available tags: ==
+
+ -*Tags:*
+
+|| *Tag*  || *Function*  || *Support content?*  ||
+|| g:boundary  || Add a "limit" search term to all tags inside this tag. || Yes  ||
+|| g:addLimit  || Add a search term to all tags below this tag within a g:boundary. || No  ||
+|| g:addInLimit  || Add a "in" search term to all tags below this tag within a g:boundary. || No  ||
+|| g:count  || Execute a number count query. The default count is "select count(*) ..." from db. || No  ||
+|| g:get  || Query a list from database, and return the first one. || No  ||
+|| g:list  || Query a list. || No  ||
+|| g:page  || Query a page. The default pagination is stored and returned as org.guzz.dao.PageFlip.  || No  ||
+|| g:out  || Output a string. The tag is similar to c:out, but with more features. <br>It supports: escaping javascript, escaping special characters in xslt, outputing to be a javascript string, native2ascii.<br><br> g:out escapes xml and javascript in default, turn this two attributes to "false" if you need to output xml and javascript string. || No ||
+|| g:inc  || Increase the database value of a property by the primary key. Service [AppendCoreService Increment Queue Service] is required to active this tag. || No  ||
+
+== Attributes in tags: ==
+ 
+ In all tags, if the attribute name is the same, the function is the same too. In all tags, the property name should be the property name of java pojo class, not column name in database if there is no explicit declaration.
+ 
+ -*Primary attributes:*
+
+|| *Attribute*  || *Function*  || *Notes*  ||
+|| limit  || Search term. eg: userName=${param.name}; status=1; checked=true. <br>Guzz also supports user-defined limit, such as "checkedPost". To support this feature, you have to write a interpreter, read more in pagination section below.<br><br>*Warnings: one "limit", one search term. Combing two or more search terms by "and"/"or" inside a "limit" is not allowed. <br>To enable combing terms querying, you have to declare a g:boundary, and add as many terms as you like by g:addLimit or g:addInLimit inside it.|| One "limit", one search term.<br>No combing operators in "limit". ||
+|| var  || Store result to this variable in JSP. Similar to "var" in c:set.  || - ||
+|| scope  || Store scope. Similar to "scope" in c:set. || page,request,session,application ||
+|| business  || The business domain object to query. This should be the attribute value of "name" of "business" tag in guzz.xml, or the full qualified class name of the domain object. ||- ||
+|| tableCondition  || How to split tables? Read more in chapters Shadow Table and Custom Table. ||- ||
+|| skipCount  || Skip the first giving records. The default value is zero, means no skipping. ||- ||
+|| pageNo  || which page of the records to read. The first page is 1, the second is 2...  ||- ||
+|| pageSize  || page size ||- ||
+|| orderBy  || The order by in query. Separate orderBys by comma. eg: name asc, id desc, friendCount asc ||- ||
+|| test  || Used by g:addLimit and g:addInLimit，and is similar to "test" in c:if. <br><br>If the test is true, add the condition; Or, ignore it. The default value is true. ||- ||
+
+ -*Operators supported in "limit" attribute:*
+
+|| *operator* || *function* || *notes* ||
+|| =  || EQUAL || equals ||
+|| == || EQUAL || equals ||
+|| =~= || EQUAL_IGNORE_CASE || string equals(case insensitive) ||
+|| >  || BIGGER || bigger than ||
+|| <  || SMALLER  || smaller than ||
+|| >= || BIGGER_OR_EQUAL || bigger or equals ||
+|| <= || SMALLER_OR_EQUAL || smaller or equals ||
+|| != || NOT_EQUAL || not equals ||
+|| <> || NOT_EQUAL || not equals ||
+|| `~~` || LIKE_IGNORE_CASE || string like(case insensitive).<br><br>Add the "like" matching rules yourself as in sqls. % matches any characters, ? matches one. <br>eg: limit="name`~~`%${param.name}%" ||
+|| ~= || LIKE_CASE_SENSTIVE || string like(case sensitive or not is decided by the column definition by the database). Notes as above. ||
+
+== How to use? ==
+
+ Guzz's taglib is designed to handle database operations, to simplify your works on reading data. Most of the time, it would be used with JSP core taglib.
+ 
+=== Single Search Term ===
+
+ If your query has no condition or based only on one condition, you can query data by get/list/page tag directly.
+ 
+ For example, we have to analyze the popularity of cities in a country, and pass a parameter "cid" to identify the country.
+ 
+{{{
+<g:get var="m_coutry" business="userCoutry" limit="id=${param.cid}" />
+
+<c:if test="${empty param.order}">
+	<g:list var="m_cities" business="userCity" limit="coutryId=${m_coutry.id}" orderBy="id asc" pageSize="200" />
+</c:if>
+<c:if test="${not empty param.order}">
+	<g:list var="m_cities" business="userCity" limit="coutryId=${m_coutry.id}" orderBy="${param.order}" pageSize="200" />
+</c:if>
+
+<g:count var="m_cityAddedFavNum" selectPhrase="sum(addedFavNum)" business="userCity" limit="coutryId=${m_coutry.id}" />
+
+<g:count var="m_maxCityFavNum" business="userCity" selectPhrase="max(favNum)" limit="coutryId=${m_coutry.id}" />
+<g:count var="m_maxCityAddedFavNum" business="userCity" selectPhrase="max(addedFavNum)" limit="coutryId=${m_coutry.id}" />
+
+<g:count var="m_cityFavPeopleBase" business="userCity" selectPhrase="max(favPeople)" limit="coutryId=${m_coutry.id}" />
+<c:set var="m_cityFavNumBase" value="${m_maxCityFavNum + m_maxCityAddedFavNum }" />
+
+}}}
+
+=== Combing Search Terms: ===
+
+ Use g:boundary and g:limit tags if you have one more conditions in a query. For example: 
+
+{{{
+<g:boundary>
+	<g:addInLimit test="${!consoleUser.systemAdmin}" name="authGroup" value="${consoleUser.authGroups}" />
+	<g:addLimit limit="channelStatus=checked" />
+
+	<g:list var="m_channels" business="channel" orderBy="id desc" pageSize="20" />
+</g:boundary>
+}}}
+
+ We list the first 20 checked channels the user is authorized, or the first 20 checked channels if the user is a system administrator.
+
+ The combined conditions are jointed by "and" operator. Taglib doesn't support "or" operator.
+
+=== Page Query & Pagination ===
+
+ The g:page is used to query data of a page, and compute its paginations. The g:page can be thought as a combination of g:list and g:count.
+ 
+ For example:
+ 
+{{{
+<g:boundary>
+	<c:if test="${param.cid > 0}">
+		<g:addLimit limit="channelId=${param.cid}" />
+	</c:if>
+	<g:addLimit limit="${consoleUser}" />
+	
+	<g:page var="m_votes" business="blogVote" orderBy="id desc" pageNo="${param.pageNo}" pageSize="20" />
+</g:boundary>
+}}}
+
+ In this example, we read all authorized votes in a channel or all channels if no "cid" is passed in one page. The pageNo is retrieved from parameter "pageNo", and every page contains at most 20 records.
+
+ Note that:
+ 
+{{{
+<g:addLimit limit="${consoleUser}" />
+}}}
+
+ The "limit" is a user-defined one, indicates the condition of "current login console user". This is a advanced usage, [BlogVoteInterpreter Read More].
+
+ The page data stored in "var" by g:page is a instance of org.guzz.dao.PageFlip. You can fetch its records by elements().
+ 
+ Besides variable of attribute "var", g:page also store the data to another inner variable "PAGE_FLIP". If all your pagination displays are similar, this can be very useful for you to write a public pagination jsp.
+ 
+ Example:
+ 
+{{{
+<%@ taglib uri="http://www.guzz.org/tags" prefix="g" %> 
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %> 
+
+<g:page var="m_channels" business="channel" orderBy="id desc" pageNo="${param.pageNo}" pageSize="20" />
+....
+<c:forEach items="${m_channels.elements}" var="m_channel">
+     		<tr>
+     			<td>${m_channel.id}</td>
+     			<td>${m_channel.name}</td>
+                        .....
+     		</tr>
+</c:forEach>
+....
+<table border="0" width="96%" align="center" class="data">
+     		<tr align="left">
+     			<c:import url="/WEB-INF/jsp/include/console_flip.jsp" />
+     		</tr>
+</table>
+....
+}}}
+
+ In the example, we display data by variable "m_channels", and also do pagination by including a public jsp: /WEB-INF/jsp/include/console_flip.jsp.
+  
+ The content of console_flip.jsp is :
+
+{{{
+<%@ page contentType="text/html;charset=UTF-8"%>
+<%@ taglib uri="http://www.guzz.org/tags" prefix="g" %> 
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %> 
+
+<!-- we need property PAGE_FLIP -->
+		<td class="page_bar">
+			Current page: <c:out value="${PAGE_FLIP.pageNo}"/>&nbsp;total:<c:out value="${PAGE_FLIP.pageCount}"/> pages&nbsp;
+			(total records:<c:out value="${PAGE_FLIP.totalCount}"/>)&nbsp;	
+			<c:forEach begin="${PAGE_FLIP.pageStart}" end="${PAGE_FLIP.pageEnd}" step="1" var="index">
+				<c:if test="${index == PAGE_FLIP.pageNo}"> 
+					<span style="color:red;font-weight:bold;"><c:out value="${index }" /></span> 
+				</c:if>
+				<c:if test="${index != PAGE_FLIP.pageNo}"> 
+					<a href='<c:out value="${PAGE_FLIP.flipURL}" />&<c:out value="${PAGE_FLIP.webPageNoParam}" />=<c:out value="${index}"/>'>
+                                        <span style="text-decoration: none;color:gray;"><c:out value="${index}" /></span></a>  
+				</c:if>&nbsp;
+			</c:forEach>
+		</td>
+}}}
+
+ PageFlip can not only provide the records, the pagination algorithm, but also all parameters in HTTP "GET" methods without "pageNo". With PageFlip, you can write a public pagination jsp, and use it for all "list data" features.
+
+ The implementation class of PageFlip can be designated in SearchExpression. The taglib doesn't support designate it for now.
+
+ It's highly recommended that every pagination is designed this way.
+
+=== g:inc taglib: ===
+
+ -*Principle:* When a g:inc is executed, it inserts a record into a temporary table and returns. The record contains the table, row (by primary key), updated column and the increment value. In another thread, the records in the temporary table are read and combined (operation for the same row) to reduce sql count needed, and execute them in the formal database.
+ 
+ -*Attributes in g:inc:*
+
+|| *Attribute*  || *Function*  || *Notes*  ||
+|| business  || the domain business to update. the business/name in guzz.xml, or the full qualified class name of the domain class. || - ||
+|| updatePropName || the property to increase.  || - ||
+|| pkValue  || primary key value || Can only be updated by primary key. ||
+|| count  || Increment  || A positive value means add, a negative value means minus. ||
+|| tableCondition || How to split table of the business object. Read more on Shadow Table and Custom Table. ||- ||
+
+ -*Example:*
+
+{{{
+<g:inc business="blogArticle" pkValue="${article.id}" updatePropName="readCount" count="1" />
+
+<g:inc business="comment" pkValue="${comment.id}" updatePropName="readCount" count="1" tableCondition="${article.channel}" />
+}}}
+
+== Taglib Documentation ==
+
+ [http://www.guzz.org/docs/tlddocs/index.html]
+ 

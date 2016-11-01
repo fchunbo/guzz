@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/569/demos/en/MessageBoard/src/example/business
+END
+IncUpdateBusiness.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/569/demos/en/MessageBoard/src/example/business/IncUpdateBusiness.hbm.xml
+END
+MessageVirtualDBView.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/569/demos/en/MessageBoard/src/example/business/MessageVirtualDBView.java
+END
+MessageShadowTableView.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/569/demos/en/MessageBoard/src/example/business/MessageShadowTableView.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/569/demos/en/MessageBoard/src/example/business/User.java
+END
+User.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/569/demos/en/MessageBoard/src/example/business/User.hbm.xml
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/569/demos/en/MessageBoard/src/example/business/Message.java
+END
+Message.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/569/demos/en/MessageBoard/src/example/business/Message.hbm.xml
+END

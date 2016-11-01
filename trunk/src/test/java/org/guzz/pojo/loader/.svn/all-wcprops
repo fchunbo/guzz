@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/457/trunk/src/test/java/org/guzz/pojo/loader
+END
+TestClobLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/457/trunk/src/test/java/org/guzz/pojo/loader/TestClobLoader.java
+END
+TestBlobLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/457/trunk/src/test/java/org/guzz/pojo/loader/TestBlobLoader.java
+END

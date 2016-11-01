@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/577/trunk/src/main/java/org/guzz/dao
+END
+GuzzBaseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/577/trunk/src/main/java/org/guzz/dao/GuzzBaseDao.java
+END
+PersistListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/dao/PersistListener.java
+END
+PersistListenerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/dao/PersistListenerAdapter.java
+END
+WriteTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/503/trunk/src/main/java/org/guzz/dao/WriteTemplate.java
+END
+PageFlip.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/dao/PageFlip.java
+END
+GuzzWriteCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/dao/GuzzWriteCallback.java
+END
+GuzzReadCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/dao/GuzzReadCallback.java
+END

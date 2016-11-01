@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/orm/type
+END
+TestBlobType.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/orm/type/TestBlobType.java
+END
+TestClobType.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/orm/type/TestClobType.java
+END

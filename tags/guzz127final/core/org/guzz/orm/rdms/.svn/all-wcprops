@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/rdms
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/rdms/Table.java
+END
+SimpleTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/rdms/SimpleTable.java
+END
+ShadowTableViewManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/rdms/ShadowTableViewManager.java
+END
+TableColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/rdms/TableColumn.java
+END

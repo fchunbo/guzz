@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/446/demos/en/GuzzVote/WebRoot/WEB-INF/jsp/open
+END
+viewVote.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/446/demos/en/GuzzVote/WebRoot/WEB-INF/jsp/open/viewVote.jsp
+END
+voteResult.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/446/demos/en/GuzzVote/WebRoot/WEB-INF/jsp/open/voteResult.jsp
+END
+viewVote_json.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/446/demos/en/GuzzVote/WebRoot/WEB-INF/jsp/open/viewVote_json.jsp
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/lib
+END
+saxpath.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/lib/saxpath.jar
+END
+c3p0-0.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/lib/c3p0-0.9.1.jar
+END
+jaxp-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/lib/jaxp-api.jar
+END
+xercesImpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/lib/xercesImpl.jar
+END
+jstl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/lib/jstl.jar
+END
+jdbc2_0-stdext.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/lib/jdbc2_0-stdext.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/lib/dom4j-1.6.1.jar
+END
+dom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/lib/dom.jar
+END
+mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/lib/mail.jar
+END
+phprpc_client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/lib/phprpc_client.jar
+END
+sax.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/lib/sax.jar
+END
+commons-logging-1.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/lib/commons-logging-1.0.4.jar
+END
+standard.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/lib/standard.jar
+END
+spring.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/lib/spring.jar
+END
+xalan.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/lib/xalan.jar
+END
+jaxen-full.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/lib/jaxen-full.jar
+END

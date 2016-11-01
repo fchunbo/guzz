@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/577/trunk/src/main/java/org/guzz/transaction
+END
+AbstractTranSessionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/transaction/AbstractTranSessionImpl.java
+END
+TransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/transaction/TransactionManager.java
+END
+WriteTranSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/transaction/WriteTranSession.java
+END
+SoloWriteTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/503/trunk/src/main/java/org/guzz/transaction/SoloWriteTemplate.java
+END
+DefaultTranSessionLocatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/transaction/DefaultTranSessionLocatorImpl.java
+END
+ReadonlyTranSessionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/transaction/ReadonlyTranSessionImpl.java
+END
+DataSourceTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/transaction/DataSourceTransactionManager.java
+END
+TranSessionLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/transaction/TranSessionLocator.java
+END
+LockMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/transaction/LockMode.java
+END
+ConnectionsGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/transaction/ConnectionsGroup.java
+END
+SpringTranSessionLocatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/transaction/SpringTranSessionLocatorImpl.java
+END
+IsolationsSavePointer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/transaction/IsolationsSavePointer.java
+END
+WriteTranSessionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/577/trunk/src/main/java/org/guzz/transaction/WriteTranSessionImpl.java
+END
+ReadonlyTranSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/511/trunk/src/main/java/org/guzz/transaction/ReadonlyTranSession.java
+END
+TranSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/transaction/TranSession.java
+END
+TransactionManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/transaction/TransactionManagerFactory.java
+END
+AbstractWriteTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/transaction/AbstractWriteTemplate.java
+END

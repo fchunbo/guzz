@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/manager
+END
+ICMPManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/manager/ICMPManager.java
+END
+UserPswManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/manager/UserPswManager.java
+END
+StateChangedManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/manager/StateChangedManager.java
+END
+UserInforManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/manager/UserInforManager.java
+END
+SearchGuestManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/manager/SearchGuestManager.java
+END
+PermitManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/manager/PermitManager.java
+END
+TextManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/manager/TextManager.java
+END
+RegisterManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/server/manager/RegisterManager.java
+END

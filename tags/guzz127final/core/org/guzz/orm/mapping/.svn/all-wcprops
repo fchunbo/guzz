@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/mapping
+END
+AbstractObjectMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/mapping/AbstractObjectMapping.java
+END
+FirstColumnDataLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/mapping/FirstColumnDataLoader.java
+END
+RowDataLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/mapping/RowDataLoader.java
+END
+POJOBasedObjectMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/mapping/POJOBasedObjectMapping.java
+END
+ObjectMappingManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/mapping/ObjectMappingManager.java
+END
+ResultMapBasedObjectMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/mapping/ResultMapBasedObjectMapping.java
+END
+MapDataLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/mapping/MapDataLoader.java
+END

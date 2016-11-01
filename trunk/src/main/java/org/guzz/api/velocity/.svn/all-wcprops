@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/514/trunk/src/main/java/org/guzz/api/velocity
+END
+GuzzAddLimitDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/514/trunk/src/main/java/org/guzz/api/velocity/GuzzAddLimitDirective.java
+END
+EscapeJavascriptDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/514/trunk/src/main/java/org/guzz/api/velocity/EscapeJavascriptDirective.java
+END
+GuzzCountDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/514/trunk/src/main/java/org/guzz/api/velocity/GuzzCountDirective.java
+END
+GuzzIncDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/514/trunk/src/main/java/org/guzz/api/velocity/GuzzIncDirective.java
+END
+IsEmptyDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/514/trunk/src/main/java/org/guzz/api/velocity/IsEmptyDirective.java
+END
+GuzzListDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/514/trunk/src/main/java/org/guzz/api/velocity/GuzzListDirective.java
+END
+GuzzPageDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/514/trunk/src/main/java/org/guzz/api/velocity/GuzzPageDirective.java
+END
+UTF8EncodingDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/514/trunk/src/main/java/org/guzz/api/velocity/UTF8EncodingDirective.java
+END
+GuzzAddInLimitDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/514/trunk/src/main/java/org/guzz/api/velocity/GuzzAddInLimitDirective.java
+END
+SummonDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/514/trunk/src/main/java/org/guzz/api/velocity/SummonDirective.java
+END
+NotEmptyDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/514/trunk/src/main/java/org/guzz/api/velocity/NotEmptyDirective.java
+END
+GuzzGetDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/514/trunk/src/main/java/org/guzz/api/velocity/GuzzGetDirective.java
+END
+EscapeXmlDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/514/trunk/src/main/java/org/guzz/api/velocity/EscapeXmlDirective.java
+END
+GuzzBoundaryDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/514/trunk/src/main/java/org/guzz/api/velocity/GuzzBoundaryDirective.java
+END

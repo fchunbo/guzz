@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/manager/validator
+END
+ZipCodeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/manager/validator/ZipCodeValidator.java
+END
+CellPhoneValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/436/demos/zh-Hans/GuzzVoteCN/src/org/guzz/sample/vote/manager/validator/CellPhoneValidator.java
+END

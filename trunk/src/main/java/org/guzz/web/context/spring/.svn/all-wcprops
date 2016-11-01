@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/503/trunk/src/main/java/org/guzz/web/context/spring
+END
+GuzzServiceFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/478/trunk/src/main/java/org/guzz/web/context/spring/GuzzServiceFactoryBean.java
+END
+GuzzWithSpringContextLoaderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/web/context/spring/GuzzWithSpringContextLoaderListener.java
+END
+GuzzTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/web/context/spring/GuzzTransactionManager.java
+END
+SpringExtendedBeanFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/web/context/spring/SpringExtendedBeanFactory.java
+END
+WriteTranSessionHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/web/context/spring/WriteTranSessionHolder.java
+END
+TransactionManagerUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/web/context/spring/TransactionManagerUtils.java
+END
+GuzzContextBeanFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/web/context/spring/GuzzContextBeanFactory.java
+END
+SpringSessionSynchronization.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/489/trunk/src/main/java/org/guzz/web/context/spring/SpringSessionSynchronization.java
+END
+GuzzDataSourceFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/478/trunk/src/main/java/org/guzz/web/context/spring/GuzzDataSourceFactoryBean.java
+END
+SpringWriteTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/503/trunk/src/main/java/org/guzz/web/context/spring/SpringWriteTemplate.java
+END

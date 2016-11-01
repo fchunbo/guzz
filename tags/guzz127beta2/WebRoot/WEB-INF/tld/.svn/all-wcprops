@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/tld
+END
+x-rt.tld
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/tld/x-rt.tld
+END
+sql.tld
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/tld/sql.tld
+END
+c.tld
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/tld/c.tld
+END
+sql-rt.tld
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/tld/sql-rt.tld
+END
+permittedTaglibs.tld
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/tld/permittedTaglibs.tld
+END
+c-rt.tld
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/tld/c-rt.tld
+END
+fmt.tld
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/tld/fmt.tld
+END
+scriptfree.tld
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/tld/scriptfree.tld
+END
+x.tld
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/tld/x.tld
+END
+fmt-rt.tld
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/tags/guzz127beta2/WebRoot/WEB-INF/tld/fmt-rt.tld
+END

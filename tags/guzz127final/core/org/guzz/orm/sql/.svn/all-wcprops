@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/sql
+END
+NormalBindedCompiledSQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/sql/NormalBindedCompiledSQL.java
+END
+CompiledSQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/sql/CompiledSQL.java
+END
+CustomBindedCompiledSQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/sql/CustomBindedCompiledSQL.java
+END
+SQLQueryCallBack.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/sql/SQLQueryCallBack.java
+END
+BindedCompiledSQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/sql/BindedCompiledSQL.java
+END
+MarkedSQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/sql/MarkedSQL.java
+END
+CompiledSQLBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/sql/CompiledSQLBuilder.java
+END
+NormalCompiledSQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/sql/NormalCompiledSQL.java
+END
+CustomCompiledSQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/sql/CustomCompiledSQL.java
+END
+CompiledSQLManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/58/tags/guzz127final/core/org/guzz/orm/sql/CompiledSQLManager.java
+END

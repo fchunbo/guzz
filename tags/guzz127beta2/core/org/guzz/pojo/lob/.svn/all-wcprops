@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/pojo/lob
+END
+ClobImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/pojo/lob/ClobImpl.java
+END
+TranBlob.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/pojo/lob/TranBlob.java
+END
+TranClob.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/pojo/lob/TranClob.java
+END
+ReaderInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/pojo/lob/ReaderInputStream.java
+END
+BlobImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/pojo/lob/BlobImpl.java
+END

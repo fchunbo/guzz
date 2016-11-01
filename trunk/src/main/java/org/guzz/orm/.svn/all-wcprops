@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/570/trunk/src/main/java/org/guzz/orm
+END
+ShadowTableView.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/orm/ShadowTableView.java
+END
+ColumnORM.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/orm/ColumnORM.java
+END
+Business.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/orm/Business.java
+END
+AbstractShadowTableView.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/orm/AbstractShadowTableView.java
+END
+CustomTableView.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/orm/CustomTableView.java
+END
+ColumnDataLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/orm/ColumnDataLoader.java
+END
+BusinessInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/orm/BusinessInterpreter.java
+END
+AbstractCustomTableView.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/orm/AbstractCustomTableView.java
+END
+ObjectMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/orm/ObjectMapping.java
+END

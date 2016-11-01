@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/test
+END
+TestGuzz.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/test/TestGuzz.java
+END
+UserModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/test/UserModel.java
+END
+Comment.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/test/Comment.java
+END
+User.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/test/User.hbm.xml
+END
+CommentShadowView.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/test/CommentShadowView.java
+END
+Article.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/test/Article.hbm.xml
+END
+UserInfoH2.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/test/UserInfoH2.hbm.xml
+END
+UserInfo.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/test/UserInfo.hbm.xml
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/test/User.java
+END
+Book.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/test/Book.hbm.xml
+END
+DBBasedTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/test/DBBasedTestCase.java
+END
+ArticleCount.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/test/ArticleCount.hbm.xml
+END
+Article.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/test/Article.java
+END
+TestGhostLoad.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/test/TestGhostLoad.java
+END
+UserInfoH2.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/test/UserInfoH2.java
+END
+Comment.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/test/Comment.hbm.xml
+END
+UserInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/test/UserInfo.java
+END
+Book.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/test/Book.java
+END
+ArticleCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/test/ArticleCount.java
+END

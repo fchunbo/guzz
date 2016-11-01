@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 39
+src_backup
+.settings
+.myeclipse
+target
+
+END

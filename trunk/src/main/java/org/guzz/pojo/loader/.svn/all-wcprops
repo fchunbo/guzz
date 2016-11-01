@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/pojo/loader
+END
+TwoPhaseBlobDataLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/pojo/loader/TwoPhaseBlobDataLoader.java
+END
+TwoPhaseClobDataLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/pojo/loader/TwoPhaseClobDataLoader.java
+END

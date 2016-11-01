@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/orm/interpreter
+END
+IDataTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/orm/interpreter/IDataTypeHandler.java
+END
+AbstractBusinessInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/orm/interpreter/AbstractBusinessInterpreter.java
+END
+JavaTypeHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/orm/interpreter/JavaTypeHandlers.java
+END
+SEBusinessInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/orm/interpreter/SEBusinessInterpreter.java
+END
+ConditionSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/orm/interpreter/ConditionSegment.java
+END
+BusinessInterpreterManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/orm/interpreter/BusinessInterpreterManager.java
+END
+LogicOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/23/tags/guzz127beta2/core/org/guzz/orm/interpreter/LogicOperation.java
+END

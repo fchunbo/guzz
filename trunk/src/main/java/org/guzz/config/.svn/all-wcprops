@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/503/trunk/src/main/java/org/guzz/config
+END
+ConfigServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/config/ConfigServer.java
+END
+LocalFileConfigServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/503/trunk/src/main/java/org/guzz/config/LocalFileConfigServer.java
+END

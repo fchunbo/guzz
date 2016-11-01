@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/orm/sql/impl
+END
+TestSQLCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/orm/sql/impl/TestSQLCompiler.java
+END
+TestInnerSQLBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/58/tags/guzz127final/test/org/guzz/orm/sql/impl/TestInnerSQLBuilder.java
+END

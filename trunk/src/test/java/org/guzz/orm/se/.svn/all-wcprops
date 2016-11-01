@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/570/trunk/src/test/java/org/guzz/orm/se
+END
+TestSearchExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/570/trunk/src/test/java/org/guzz/orm/se/TestSearchExpression.java
+END
+TestDaoWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/457/trunk/src/test/java/org/guzz/orm/se/TestDaoWrite.java
+END
+TestDaoRead.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/471/trunk/src/test/java/org/guzz/orm/se/TestDaoRead.java
+END
+TestBeanMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/457/trunk/src/test/java/org/guzz/orm/se/TestBeanMap.java
+END
+TestDynamicSQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/519/trunk/src/test/java/org/guzz/orm/se/TestDynamicSQL.java
+END

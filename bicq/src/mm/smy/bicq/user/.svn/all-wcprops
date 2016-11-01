@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/user
+END
+PortraitObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/user/PortraitObject.java
+END
+Host.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/user/Host.java
+END
+NoSuchUserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/user/NoSuchUserException.java
+END
+GuestInforWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/user/GuestInforWindow.java
+END
+HostFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/user/HostFile.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/user/User.java
+END
+PortraitListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/user/PortraitListModel.java
+END
+HostInforWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/user/HostInforWindow.java
+END
+GuestGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/user/GuestGroup.java
+END
+PortraitCellRender.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/user/PortraitCellRender.java
+END
+GuestGroupFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/user/GuestGroupFile.java
+END
+InforWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/user/InforWindow.java
+END
+GuestFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/user/GuestFile.java
+END
+Guest.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/34/bicq/src/mm/smy/bicq/user/Guest.java
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/471/trunk/src/main/java/org/guzz/id
+END
+IdentifierGenerationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/id/IdentifierGenerationException.java
+END
+AssignedIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/id/AssignedIdGenerator.java
+END
+IdentifierGeneratorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/id/IdentifierGeneratorFactory.java
+END
+UUIDHexGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/id/UUIDHexGenerator.java
+END
+SilentIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/id/SilentIdGenerator.java
+END
+TableMultiIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/id/TableMultiIdGenerator.java
+END
+IdentifierGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/id/IdentifierGenerator.java
+END
+SequenceHiLoGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/471/trunk/src/main/java/org/guzz/id/SequenceHiLoGenerator.java
+END
+SequenceIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/471/trunk/src/main/java/org/guzz/id/SequenceIdGenerator.java
+END
+TableGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/id/TableGenerator.java
+END
+Configurable.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/id/Configurable.java
+END
+AbstractUUIDGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/id/AbstractUUIDGenerator.java
+END
+AutoIncrementIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/id/AutoIncrementIdGenerator.java
+END
+RandomIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/id/RandomIdGenerator.java
+END
+TableHiLoGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/id/TableHiLoGenerator.java
+END
+GUIDIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/457/trunk/src/main/java/org/guzz/id/GUIDIdGenerator.java
+END
